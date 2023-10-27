@@ -9,7 +9,7 @@ import openai
 engine = pyttsx3.init()
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR API KEY"
 
 def say(text):
     engine.say(text)
