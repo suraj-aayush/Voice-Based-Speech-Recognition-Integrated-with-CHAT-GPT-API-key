@@ -64,9 +64,16 @@ cd jarvis-ai
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-pip install -r requirements.txt
-
 OPENAI_API_KEY=your-api-key-here
 
 python jarvis.py
+```
+License 📜
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
+## **Contact 📬**
+For queries or suggestions, feel free to reach out:
+
+- Email: surajkumar754780@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aayush-kumar-755157200/
+- GitHub: https://github.com/suraj-aayush
